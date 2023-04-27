@@ -1,0 +1,1 @@
+# Microservices_Dotnet_AWS_HotelCreatedEVent_Python3.9
